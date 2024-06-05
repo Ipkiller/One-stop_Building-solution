@@ -1,0 +1,7 @@
+@media screen and (max-width: 596px) {
+    main>.container .txt>p{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

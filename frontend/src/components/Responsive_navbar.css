@@ -1,0 +1,13 @@
+@media screen and (max-width: 626px) {
+    nav>.menu_bar{
+        display: none !important;
+    }
+    nav{
+        gap: 0;
+    }
+}
+@media screen and (min-width: 626px) {
+    nav>.menu_btn{
+        display: none !important;
+    }
+}
